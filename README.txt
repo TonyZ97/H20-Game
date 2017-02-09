@@ -6,4 +6,4 @@ Ways to play the game:
 2. To teach students the basics of pollution modeling, the amount of pollution each land use generates can be changed via sliders. In this game mode, a town is already in place on the map. The student can then change the pollution of each type using the slider, with the goal of matching a given total pollution number. This mimics the role of researchers calibrating GIS pollution models. 
 
 
-The program is written in Processing, a language that is backed by Java, but with much easier graphics.
+The program is written in Processing, a language that is backed by Java, but with streamlined graphics.
